@@ -1,0 +1,45 @@
+body{
+    font-family: 'Inconsolata', monospace;
+    padding: 0;
+    margin: 0;
+}
+
+/*header style*/
+.header{
+    background-image: url('/images/cool-background.png');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+   }
+
+   .navbar
+   { background:#B71C1C;}
+   .nav-link , .navbar-brand
+   { color: #f4f4f4; cursor: pointer;}
+   .nav-link
+   { margin-right: 1em !important;}
+   .nav-link:hover
+   { color: yellow; }
+   .navbar-collapse{
+        justify-content: flex-end;}
+   .navbar-toggler{
+ background: #FFF176 !important;}
+
+.navbar-collapse{
+    justify-content: flex-end;
+}
+
+/* header style for portfolio */
+
+.header{
+    background-image: url(/images/cool-background.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+
+
+
